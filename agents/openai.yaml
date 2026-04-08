@@ -1,0 +1,5 @@
+---
+interface:
+  display_name: "Bark Push"
+  short_description: "Build Bark notification requests in Python"
+  default_prompt: "Use $bark-skills to turn Bark notification requirements into Python examples, Bark parameters, and GET or POST request patterns."
